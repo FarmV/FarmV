@@ -1,3 +1,1 @@
-### Hi there 👋
-
-<img src="https://d.img.vision/farmv/README.png"/>
+<img src="README.png" title="Да, мне просто захотелось так сделать =)" alt="Анимация долго грузится"/>
