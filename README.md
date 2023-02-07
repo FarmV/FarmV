@@ -8,7 +8,7 @@
 
 
 
-<h3 align="left" >$\textcolor{#FBA12D}{\textsf{My base technology stack}}$ </h4>
+<h3 align="left" > $\textcolor{#FBA12D}{\textsf{My base technology stack}}$ </h4>
 
 <h6>
 Hello everyone! Having 6 years of experience in different spheres, I have developed a special interest in process optimization and discovered a passion for programming. My goal is to further develop my skills and experience in this field to make it my main direction of activity. In my free time, you can find me as a participant in the <a href="https://win10tweaker.ru/forum)">"Win10Tweaker"</a> forum, following programming sections, custom projects, and learning new technologies and developing projects. I am open to suggestions and also just love to exchange experiences.
