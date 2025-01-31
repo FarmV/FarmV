@@ -3,7 +3,7 @@
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C Sharp" width="75" height="75"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0"><img align="left" title="Windows Presentation Foundation" src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png.webp" width="75" height="75"/></a>
 
-<h3 align="left">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 I'm developing a SSHF project.
 You can contact me through Discrod by adding me.
 
