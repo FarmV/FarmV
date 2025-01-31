@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/FarmV/FarmV/blob/main/HermitAPNGGit.png" width="600" height="348"/>
+<img align="right" src="https://github.com/FarmV/FarmV/blob/main/HermitAPNGGit.png" width="610" height="358"/>
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C Sharp" width="105" height="105"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-6.0"><img align="center" title="Windows Presentation Foundation" src="https://www.ambient-it.net/wp-content/uploads/2016/04/wpf-logo-175.png.webp" width="105" height="105"/></a>
